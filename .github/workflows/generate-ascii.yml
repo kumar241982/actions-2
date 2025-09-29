@@ -13,5 +13,5 @@ jobs:
         - name: List rep files
           run: ls -ltra  
         - name: executing shell script
-          run: ./ascoo-script.sh
+          run: ./ascii-script.sh
         
